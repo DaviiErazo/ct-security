@@ -1,1 +1,1 @@
-web: gunicorn securityapi:app
+web: gunicorn api:app
